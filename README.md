@@ -13,7 +13,7 @@ Project was created with:
 
 ## Setup
 
-  1. Download and install: [ Android Studio](https://developer.android.com/studio)
+  1. Download and install: [ Android Studio](https://developer.android.com/studio){:target="_blank"}
   2. Download project and open project path in Android Studio
   3. When the project loads, wait for synchronization with Gradle and purchase on a virtual machine (Remember to calibrate it).
   4. Then run the program by clicking the key combination:
